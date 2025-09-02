@@ -1,5 +1,6 @@
 package Orientaatio1_6;
 
+
 public class Customer {
     private static int nextId = 1;
     private int id;

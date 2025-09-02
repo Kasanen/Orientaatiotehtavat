@@ -1,4 +1,5 @@
 package Orientaatio1_6;
+
 import java.util.LinkedList;
 
 public class ServicePoint {
