@@ -1,6 +1,6 @@
 package Orientaatio3_6;
 
-import eduni.distributions.Uniform;
+import eduni.distributions.*;
 
 class Clock {
 
